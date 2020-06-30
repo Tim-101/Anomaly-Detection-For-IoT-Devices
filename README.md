@@ -11,7 +11,7 @@ Models used in this projects include:
 3. K-means and GMM to cluster the IoT devices
 4. One Class SVM and Autoencoder to detect anomalies
 
-The model also works on this order.
+The model also works in this order.
 
 Overall, we managed to achieve roughly 99% accuracy accross all IoT clusters. Additionally, we found that 
 it was possible to use the model to detect anomalies on out of sample IoT devices given certain conditions were satisfied.
