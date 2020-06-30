@@ -11,10 +11,10 @@ Models used in this projects include:
 3. K-means and GMM to cluster the IoT devices
 4. One Class SVM and Autoencoder to detect anomalies
 
-The model also works on the above order.
+The model also works on this order.
 
 (/br) Overall, we managed to achieve roughly 99% accuracy accross all IoT clusters. Additionally, we found that 
-it was possible to use the model to detect anomalies on an unseen IoT devices given certain conditions are met.
+it was possible to use the model to detect anomalies on an unseen IoT device with a high accuracy given certain conditions were satisfied.
 
 # Dataset
 The data used as part of this project can be downloaded from: http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT
