@@ -13,7 +13,7 @@ Models used in this projects include:
 
 The model also works on this order.
 
-(/br) Overall, we managed to achieve roughly 99% accuracy accross all IoT clusters. Additionally, we found that 
+Overall, we managed to achieve roughly 99% accuracy accross all IoT clusters. Additionally, we found that 
 it was possible to use the model to detect anomalies on out of sample IoT devices given certain conditions were satisfied.
 This include: less complex or exactly the same features and older version device.
 
