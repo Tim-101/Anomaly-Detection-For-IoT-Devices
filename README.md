@@ -14,7 +14,8 @@ Models used in this projects include:
 The model also works on this order.
 
 (/br) Overall, we managed to achieve roughly 99% accuracy accross all IoT clusters. Additionally, we found that 
-it was possible to use the model to detect anomalies on an unseen IoT device with a high accuracy given certain conditions were satisfied.
+it was possible to use the model to detect anomalies on out of sample IoT devices given certain conditions were satisfied.
+This include: less complex or exactly the same features and older version device.
 
 # Dataset
 The data used as part of this project can be downloaded from: http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT
